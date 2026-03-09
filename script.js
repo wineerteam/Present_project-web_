@@ -2,7 +2,7 @@
   'use strict';
 
   var typingEl = document.querySelector('.typing-text');
-  var title = 'Competitive Programmer | Full-Stack Developer | GSoC 2026 Contributor';
+  var title = 'Competitive Programmer | MERN Stack Developer | Open Source Enthusiast';
   var i = 0;
   var speed = 80;
 
@@ -76,3 +76,4 @@
     reveal();
   }
 })();
+

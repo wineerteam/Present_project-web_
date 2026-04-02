@@ -326,6 +326,16 @@ body {
   box-shadow: 0 10px 25px rgba(99, 102, 241, 0.2);
 }
 
+/* 👇 YAHAN DALNA HAI (YOUR CODE) */
+.skill-card:nth-child(1) { background: linear-gradient(45deg, #ff6b6b, #ff9a9e); }
+.skill-card:nth-child(2) { background: linear-gradient(45deg, #6a11cb, #2575fc); }
+.skill-card:nth-child(3) { background: linear-gradient(45deg, #11998e, #38ef7d); }
+.skill-card:nth-child(4) { background: linear-gradient(45deg, #f7971e, #ffd200); }
+.skill-card:nth-child(5) { background: linear-gradient(45deg, #fc466b, #3f5efb); }
+.skill-card:nth-child(6) { background: linear-gradient(45deg, #00c6ff, #0072ff); }
+.skill-card:nth-child(7) { background: linear-gradient(45deg, #43e97b, #38f9d7); }
+.skill-card:nth-child(8) { background: linear-gradient(45deg, #fa709a, #fee140); }
+
 /* ===== EXPERIENCE TIMELINE ===== */
 .timeline {
   position: relative;
